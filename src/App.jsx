@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './index.css';
 
 // Check your .NET console to confirm the port (usually 5031-5200 for newer versions)
-const API_BASE_URL = 'http://localhost:5031/api/todo';
+const API_BASE_URL = 'http://localhost:5286/api/todo';
 
 function App() {
     // ADVANCED USE-CASE: A single, comprehensive state object
